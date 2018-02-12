@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main()
+include<conio.h>
+void main()
 {
   int a[10],temp;
   int i;
@@ -16,4 +17,5 @@ int main()
     }
     printf("the largest number is %d",temp);
   }
+  getch();
 }
