@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include<string.h>
-int main(void)
+#include<void main>
+void main();
 {
 	char n[10];
 	int m,i,flag;
@@ -23,7 +23,4 @@ int main(void)
 	{
 		printf("\n yes");
 	}
-	
-
-	return 0;
 }
